@@ -23,6 +23,7 @@ class ToolCategory(str, Enum):
     GARDENING = "gardening"
     CONSTRUCTION = "construction"
     AUTOMOTIVE = "automotive"
+    RESTAURANT = "restaurant"
     OTHER = "other"
 
 
